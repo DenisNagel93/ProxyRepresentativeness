@@ -1,0 +1,67 @@
+,Location,Period,Sex,Data Source,FactValueNumeric,Comments,ParentLocation,Periodr,Sexr,Data Sourcer,FactValueNumericr,Commentsr,ParentLocationr
+0,Afghanistan,2004,Both sexes,,3.8,,Eastern Mediterranean,2004,Both sexes,,0.7000000000000001,,Eastern Mediterranean
+2,Algeria,2004,Both sexes,,9.8,,Africa,2004,Both sexes,,0.5,,Africa
+4,Angola,2004,Both sexes,,48.2,,Africa,2004,Both sexes,,1.3,,Africa
+12,Bahrain,2004,Both sexes,,1.1,,Eastern Mediterranean,2004,Both sexes,,0.5,,Eastern Mediterranean
+18,Benin,2004,Both sexes,,15.8,,Africa,2004,Both sexes,,0.8,,Africa
+22,Botswana,2004,Both sexes,,24.2,,Africa,2004,Both sexes,,0.6000000000000001,,Africa
+25,Burkina Faso,2004,Both sexes,,22.5,,Africa,2004,Both sexes,,0.9,,Africa
+26,Burundi,2004,Both sexes,,44.8,,Africa,2004,Both sexes,,0.9,,Africa
+28,Cameroon,2004,Both sexes,,19.0,,Africa,2004,Both sexes,,0.8,,Africa
+30,Cabo Verde,2004,Both sexes,,12.1,,Africa,2004,Both sexes,,0.5,,Africa
+31,Central African Republic,2004,Both sexes,,36.0,,Africa,2004,Both sexes,,0.9,,Africa
+32,Chad,2004,Both sexes,,23.8,,Africa,2004,Both sexes,,1.0,,Africa
+36,Comoros,2004,Both sexes,,11.3,,Africa,2004,Both sexes,,0.6000000000000001,,Africa
+37,Congo,2004,Both sexes,,23.5,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+45,Democratic Republic of the Congo,2004,Both sexes,,45.1,,Africa,2004,Both sexes,,0.9,,Africa
+47,Djibouti,2004,Both sexes,,3.8,,Eastern Mediterranean,2004,Both sexes,,0.1,,Eastern Mediterranean
+51,Egypt,2004,Both sexes,,1.5,,Eastern Mediterranean,2004,Both sexes,,0.4,,Eastern Mediterranean
+53,Equatorial Guinea,2004,Both sexes,,28.3,,Africa,2004,Both sexes,,1.0,,Africa
+54,Eritrea,2004,Both sexes,,20.3,,Africa,2004,Both sexes,,0.6000000000000001,,Africa
+56,Ethiopia,2004,Both sexes,,25.7,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+60,Gabon,2004,Both sexes,,18.7,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+61,Gambia,2004,Both sexes,,16.1,,Africa,2004,Both sexes,,0.8,,Africa
+64,Ghana,2004,Both sexes,,14.1,,Africa,2004,Both sexes,,1.8,,Africa
+68,Guinea,2004,Both sexes,,20.5,,Africa,2004,Both sexes,,0.9,,Africa
+69,Guinea-Bissau,2004,Both sexes,,21.2,,Africa,2004,Both sexes,,0.9,,Africa
+77,Iran (Islamic Republic of),2004,Both sexes,,2.8,,Eastern Mediterranean,2004,Both sexes,,1.2,,Eastern Mediterranean
+78,Iraq,2004,Both sexes,,8.5,,Eastern Mediterranean,2004,Both sexes,,0.3,,Eastern Mediterranean
+84,Jordan,2004,Both sexes,,7.4,,Eastern Mediterranean,2004,Both sexes,,0.7000000000000001,,Eastern Mediterranean
+86,Kenya,2004,Both sexes,,26.3,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+87,Kuwait,2004,Both sexes,,1.2,,Eastern Mediterranean,2004,Both sexes,,0.1,,Eastern Mediterranean
+91,Lebanon,2004,Both sexes,,2.7,,Eastern Mediterranean,2004,Both sexes,,2.0,,Eastern Mediterranean
+92,Lesotho,2004,Both sexes,,16.2,,Africa,2004,Both sexes,,0.5,,Africa
+93,Liberia,2004,Both sexes,,21.5,,Africa,2004,Both sexes,,0.9,,Africa
+94,Libya,2004,Both sexes,,3.2,,Eastern Mediterranean,2004,Both sexes,,0.0,,Eastern Mediterranean
+97,Madagascar,2004,Both sexes,,14.6,,Africa,2004,Both sexes,,0.8,,Africa
+98,Malawi,2004,Both sexes,,25.1,,Africa,2004,Both sexes,,0.8,,Africa
+101,Mali,2004,Both sexes,,23.5,,Africa,2004,Both sexes,,0.9,,Africa
+104,Mauritania,2004,Both sexes,,17.6,,Africa,2004,Both sexes,,0.8,,Africa
+105,Mauritius,2004,Both sexes,,2.6,,Africa,2004,Both sexes,,4.1,,Africa
+110,Morocco,2004,Both sexes,,1.2,,Eastern Mediterranean,2004,Both sexes,,0.8,,Eastern Mediterranean
+111,Mozambique,2004,Both sexes,,25.6,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+113,Namibia,2004,Both sexes,,15.8,,Africa,2004,Both sexes,,0.5,,Africa
+119,Niger,2004,Both sexes,,26.9,,Africa,2004,Both sexes,,1.1,,Africa
+120,Nigeria,2004,Both sexes,,21.4,,Africa,2004,Both sexes,,0.9,,Africa
+123,Oman,2004,Both sexes,,2.0,,Eastern Mediterranean,2004,Both sexes,,0.4,,Eastern Mediterranean
+124,Pakistan,2004,Both sexes,,5.1,,Eastern Mediterranean,2004,Both sexes,,0.4,,Eastern Mediterranean
+137,Rwanda,2004,Both sexes,,34.4,,Africa,2004,Both sexes,,0.9,,Africa
+142,Sao Tome and Principe,2004,Both sexes,,6.3,,Africa,2004,Both sexes,,1.8,,Africa
+143,Saudi Arabia,2004,Both sexes,,3.1,,Eastern Mediterranean,2004,Both sexes,,0.4,,Eastern Mediterranean
+144,Senegal,2004,Both sexes,,17.2,,Africa,2004,Both sexes,,0.8,,Africa
+145,Seychelles,2004,Both sexes,,3.2,,Africa,2004,Both sexes,,4.5,,Africa
+146,Sierra Leone,2004,Both sexes,,39.8,,Africa,2004,Both sexes,,1.2,,Africa
+150,Somalia,2004,Both sexes,,1.9,,Eastern Mediterranean,2004,Both sexes,,2.1,,Eastern Mediterranean
+151,South Africa,2004,Both sexes,,70.8,,Africa,2004,Both sexes,,0.9,,Africa
+154,Sudan,2004,Both sexes,,31.0,,Eastern Mediterranean,2004,Both sexes,,1.3,,Eastern Mediterranean
+156,Eswatini,2004,Both sexes,,25.8,,Africa,2004,Both sexes,,0.7000000000000001,,Africa
+159,Syrian Arab Republic,2004,Both sexes,,3.0,,Eastern Mediterranean,2004,Both sexes,,0.6000000000000001,,Eastern Mediterranean
+164,Togo,2004,Both sexes,,16.7,,Africa,2004,Both sexes,,0.8,,Africa
+167,Tunisia,2004,Both sexes,,1.7000000000000002,,Eastern Mediterranean,2004,Both sexes,,1.6,,Eastern Mediterranean
+170,Uganda,2004,Both sexes,,33.1,,Africa,2004,Both sexes,,0.8,,Africa
+172,United Arab Emirates,2004,Both sexes,,0.5,,Eastern Mediterranean,2004,Both sexes,,1.1,,Eastern Mediterranean
+174,United Republic of Tanzania,2004,Both sexes,,33.3,,Africa,2004,Both sexes,,0.8,,Africa
+181,Yemen,2004,Both sexes,,3.2,,Eastern Mediterranean,2004,Both sexes,,0.5,,Eastern Mediterranean
+182,Zambia,2004,Both sexes,,30.5,,Africa,2004,Both sexes,,0.8,,Africa
+183,Zimbabwe,2004,Both sexes,,37.7,,Africa,2004,Both sexes,,0.8,,Africa
+184,Côte d'Ivoire,2004,Both sexes,,62.4,,Africa,2004,Both sexes,,1.1,,Africa
