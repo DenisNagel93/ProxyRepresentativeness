@@ -1,0 +1,195 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MDG,Madagascar,Year,2019,false,,,,,,,,,,,,,26.59,,,,,,27,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,TCD,Chad,Year,2019,false,,,,,,,,,,,,,29.35,,,,,,29,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,SSD,South Sudan,Year,2019,false,,,,,,,,,,,,,29.08,,,,,,29,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,ETH,Ethiopia,Year,2019,false,,,,,,,,,,,,,32.1,,,,,,32,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MRT,Mauritania,Year,2019,false,,,,,,,,,,,,,31.78,,,,,,32,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,false,,,,,,,,,,,,,31.68,,,,,,32,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,false,,,,,,,,,,,,,32.74,,,,,,33,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,false,,,,,,,,,,,,,34.63,,,,,,35,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GAB,Gabon,Year,2019,false,,,,,,,,,,,,,35.31,,,,,,35,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,COG,Congo,Year,2019,false,,,,,,,,,,,,,35.89,,,,,,36,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,false,,,,,,,,,,,,,36.24,,,,,,36,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,BEN,Benin,Year,2019,false,,,,,,,,,,,,,38.26,,,,,,38,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,AGO,Angola,Year,2019,false,,,,,,,,,,,,,39.29,,,,,,39,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,CAF,Central African Republic,Year,2019,false,,,,,,,,,,,,,38.69,,,,,,39,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,ERI,Eritrea,Year,2019,false,,,,,,,,,,,,,39.18,,,,,,39,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GHA,Ghana,Year,2019,false,,,,,,,,,,,,,39.07,,,,,,39,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,false,,,,,,,,,,,,,39.77,,,,,,40,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,LBR,Liberia,Year,2019,false,,,,,,,,,,,,,40.35,,,,,,40,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2019,false,,,,,,,,,,,,,41.5,,,,,,41,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,NGA,Nigeria,Year,2019,false,,,,,,,,,,,,,40.89,,,,,,41,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,false,,,,,,,,,,,,,42.05,,,,,,42,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,false,,,,,,,,,,,,,43.17,,,,,,43,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,false,,,,,,,,,,,,,42.95,,,,,,43,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,false,,,,,,,,,,,,,42.91,,,,,,43,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,NER,Niger,Year,2019,false,,,,,,,,,,,,,43.79,,,,,,44,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,false,,,,,,,,,,,,,43.97,,,,,,44,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,false,,,,,,,,,,,,,47.3,,,,,,47,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,false,,,,,,,,,,,,,47.29,,,,,,47,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,false,,,,,,,,,,,,,48.03,,,,,,48,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,COM,Comoros,Year,2019,false,,,,,,,,,,,,,48.19,,,,,,48,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GMB,Gambia,Year,2019,false,,,,,,,,,,,,,48.25,,,,,,48,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,GIN,Guinea,Year,2019,false,,,,,,,,,,,,,48.85,,,,,,49,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,false,,,,,,,,,,,,,49.3,,,,,,49,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2019,false,,,,,,,,,,,,,49.52,,,,,,50,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,false,,,,,,,,,,,,,50.2,,,,,,50,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2019,false,,,,,,,,,,,,,49.56,,,,,,50,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,TGO,Togo,Year,2019,false,,,,,,,,,,,,,49.87,,,,,,50,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,false,,,,,,,,,,,,,49.88,,,,,,50,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,UGA,Uganda,Year,2019,false,,,,,,,,,,,,,50.81,,,,,,51,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,false,,,,,,,,,,,,,51.19,,,,,,51,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,false,,,,,,,,,,,,,52.05,,,,,,52,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,false,,,,,,,,,,,,,52.35,,,,,,52,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,ZMB,Zambia,Year,2019,false,,,,,,,,,,,,,52.01,,,,,,52,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MLI,Mali,Year,2019,false,,,,,,,,,,,,,53.12,,,,,,53,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MOZ,Mozambique,Year,2019,false,,,,,,,,,,,,,53.23,,,,,,53,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,false,,,,,,,,,,,,,52.94,,,,,,53,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,CMR,Cameroon,Year,2019,false,,,,,,,,,,,,,53.74,,,,,,54,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,BDI,Burundi,Year,2019,false,,,,,,,,,,,,,55.3,,,,,,55,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,54.69,,,,,,55,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2019,false,,,,,,,,,,,,,55.82,,,,,,56,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,LSO,Lesotho,Year,2019,false,,,,,,,,,,,,,56.25,,,,,,56,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MUS,Mauritius,Year,2019,false,,,,,,,,,,,,,55.53,,,,,,56,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,false,,,,,,,,,,,,,56.86,,,,,,57,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,HTI,Haiti,Year,2019,false,,,,,,,,,,,,,57.35,,,,,,57,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,false,,,,,,,,,,,,,57.24,,,,,,57,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,COK,Cook Islands,Year,2019,false,,,,,,,,,,,,,58.47,,,,,,58,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,NAM,Namibia,Year,2019,false,,,,,,,,,,,,,57.64,,,,,,58,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2019,false,,,,,,,,,,,,,58.03,,,,,,58,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,false,,,,,,,,,,,,,60.11,,,,,,60,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,false,,,,,,,,,,,,,59.87,,,,,,60,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,false,,,,,,,,,,,,,60.78,,,,,,61,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2019,false,,,,,,,,,,,,,61.36,,,,,,61,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,MWI,Malawi,Year,2019,false,,,,,,,,,,,,,60.68,,,,,,61,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,false,,,,,,,,,,,,,60.66,,,,,,61,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,false,,,,,,,,,,,,,61.48,,,,,,61,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,false,,,,,,,,,,,,,62.62,,,,,,63,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,RWA,Rwanda,Year,2019,false,,,,,,,,,,,,,62.75,,,,,,63,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2019,false,,,,,,,,,,,,,62.58,,,,,,63,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,false,,,,,,,,,,,,,62.83,,,,,,63,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,FJI,Fiji,Year,2019,false,,,,,,,,,,,,,64.2,,,,,,64,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,SEN,Senegal,Year,2019,false,,,,,,,,,,,,,63.88,,,,,,64,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,false,,,,,,,,,,,,,65.56,,,,,,66,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ARM,Armenia,Year,2019,false,,,,,,,,,,,,,67.49,,,,,,67,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,LTU,Lithuania,Year,2019,false,,,,,,,,,,,,,67.08,,,,,,67,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,NRU,Nauru,Year,2019,false,,,,,,,,,,,,,66.81,,,,,,67,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,NIC,Nicaragua,Year,2019,false,,,,,,,,,,,,,67.35,,,,,,67,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,false,,,,,,,,,,,,,67.57,,,,,,68,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,IND,India,Year,2019,false,,,,,,,,,,,,,67.66,,,,,,68,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,false,,,,,,,,,,,,,68.7,,,,,,69,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,PAN,Panama,Year,2019,false,,,,,,,,,,,,,68.7,,,,,,69,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,ZAF,South Africa,Year,2019,false,,,,,,,,,,,,,68.79,,,,,,69,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,SUR,Suriname,Year,2019,false,,,,,,,,,,,,,69.49,,,,,,69,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,BWA,Botswana,Year,2019,false,,,,,,,,,,,,,69.79,,,,,,70,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,false,,,,,,,,,,,,,69.7,,,,,,70,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,HND,Honduras,Year,2019,false,,,,,,,,,,,,,69.66,,,,,,70,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,LVA,Latvia,Year,2019,false,,,,,,,,,,,,,69.64,,,,,,70,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,false,,,,,,,,,,,,,70.41,,,,,,70,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,BLZ,Belize,Year,2019,false,,,,,,,,,,,,,71.18,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,JAM,Jamaica,Year,2019,false,,,,,,,,,,,,,70.91,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,false,,,,,,,,,,,,,71.48,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2019,false,,,,,,,,,,,,,71.48,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,false,,,,,,,,,,,,,71.44,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,false,,,,,,,,,,,,,71.09,,,,,,71,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,false,,,,,,,,,,,,,72.41,,,,,,72,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,false,,,,,,,,,,,,,72.34,,,,,,72,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2019,false,,,,,,,,,,,,,72.19,,,,,,72,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ALB,Albania,Year,2019,false,,,,,,,,,,,,,72.96,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,SLV,El Salvador,Year,2019,false,,,,,,,,,,,,,73.01,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,SWZ,Eswatini,Year,2019,false,,,,,,,,,,,,,73.09,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,GTM,Guatemala,Year,2019,false,,,,,,,,,,,,,72.61,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,MEX,Mexico,Year,2019,false,,,,,,,,,,,,,72.83,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,RUS,Russian Federation,Year,2019,false,,,,,,,,,,,,,72.69,,,,,,73,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2019,false,,,,,,,,,,,,,73.79,,,,,,74,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,DMA,Dominica,Year,2019,false,,,,,,,,,,,,,74.02,,,,,,74,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,false,,,,,,,,,,,,,73.61,,,,,,74,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2019,false,,,,,,,,,,,,,73.91,,,,,,74,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,BGR,Bulgaria,Year,2019,false,,,,,,,,,,,,,75.41,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,COL,Colombia,Year,2019,false,,,,,,,,,,,,,74.97,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,GRD,Grenada,Year,2019,false,,,,,,,,,,,,,74.84,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2019,false,,,,,,,,,,,,,75.06,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2019,false,,,,,,,,,,,,,74.73,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,LCA,Saint Lucia,Year,2019,false,,,,,,,,,,,,,75.5,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,TJK,Tajikistan,Year,2019,false,,,,,,,,,,,,,75.04,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,TON,Tonga,Year,2019,false,,,,,,,,,,,,,75.43,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,false,,,,,,,,,,,,,75.3,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,UKR,Ukraine,Year,2019,false,,,,,,,,,,,,,74.76,,,,,,75,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,HUN,Hungary,Year,2019,false,,,,,,,,,,,,,75.8,,,,,,76,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,false,,,,,,,,,,,,,75.59,,,,,,76,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,PLW,Palau,Year,2019,false,,,,,,,,,,,,,76.33,,,,,,76,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,WSM,Samoa,Year,2019,false,,,,,,,,,,,,,75.95,,,,,,76,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,CRI,Costa Rica,Year,2019,false,,,,,,,,,,,,,77.41,,,,,,77,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,GUY,Guyana,Year,2019,false,,,,,,,,,,,,,76.74,,,,,,77,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,MKD,North Macedonia,Year,2019,false,,,,,,,,,,,,,77.36,,,,,,77,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,GEO,Georgia,Year,2019,false,,,,,,,,,,,,,78.25,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,MNE,Montenegro,Year,2019,false,,,,,,,,,,,,,78.03,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,NIU,Niue,Year,2019,false,,,,,,,,,,,,,77.58,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,PER,Peru,Year,2019,false,,,,,,,,,,,,,78.19,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2019,false,,,,,,,,,,,,,78.25,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2019,false,,,,,,,,,,,,,78.22,,,,,,78,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2019,false,,,,,,,,,,,,,78.92,,,,,,79,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,ECU,Ecuador,Year,2019,false,,,,,,,,,,,,,79.48,,,,,,79,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ROU,Romania,Year,2019,false,,,,,,,,,,,,,79.21,,,,,,79,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,BRB,Barbados,Year,2019,false,,,,,,,,,,,,,79.56,,,,,,80,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,BLR,Belarus,Year,2019,false,,,,,,,,,,,,,79.97,,,,,,80,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2019,false,,,,,,,,,,,,,79.93,,,,,,80,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2019,false,,,,,,,,,,,,,80.51,,,,,,81,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,false,,,,,,,,,,,,,80.71,,,,,,81,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,PRY,Paraguay,Year,2019,false,,,,,,,,,,,,,81.16,,,,,,81,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,SYC,Seychelles,Year,2019,false,,,,,,,,,,,,,81.4,,,,,,81,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,DZA,Algeria,Year,2019,false,,,,,,,,,,,,,82.34,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,ARG,Argentina,Year,2019,false,,,,,,,,,,,,,82.07,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,BRA,Brazil,Year,2019,false,,,,,,,,,,,,,81.85,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,EST,Estonia,Year,2019,false,,,,,,,,,,,,,82.46,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,TUR,Türkiye,Year,2019,false,,,,,,,,,,,,,81.7,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,URY,Uruguay,Year,2019,false,,,,,,,,,,,,,82.07,,,,,,82,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,BHS,Bahamas,Year,2019,false,,,,,,,,,,,,,82.5,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2019,false,,,,,,,,,,,,,83.12,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,false,,,,,,,,,,,,,83.45,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,false,,,,,,,,,,,,,82.89,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,false,,,,,,,,,,,,,82.51,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,false,,,,,,,,,,,,,83.01,,,,,,83,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2019,false,,,,,,,,,,,,,84.07,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,CHL,Chile,Year,2019,false,,,,,,,,,,,,,83.53,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,CUB,Cuba,Year,2019,false,,,,,,,,,,,,,83.72,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,GRC,Greece,Year,2019,false,,,,,,,,,,,,,84.07,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,false,,,,,,,,,,,,,84.16,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,SVK,Slovakia,Year,2019,false,,,,,,,,,,,,,84.12,,,,,,84,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,CHN,China,Year,2019,false,,,,,,,,,,,,,84.98,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,CZE,Czechia,Year,2019,false,,,,,,,,,,,,,85.5,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,FIN,Finland,Year,2019,false,,,,,,,,,,,,,85.03,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,IRL,Ireland,Year,2019,false,,,,,,,,,,,,,85.27,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,JPN,Japan,Year,2019,false,,,,,,,,,,,,,84.58,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,LUX,Luxembourg,Year,2019,false,,,,,,,,,,,,,84.87,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,POL,Poland,Year,2019,false,,,,,,,,,,,,,85.37,,,,,,85,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,CAN,Canada,Year,2019,false,,,,,,,,,,,,,86.25,,,,,,86,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ISR,Israel,Year,2019,false,,,,,,,,,,,,,85.9,,,,,,86,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,MLT,Malta,Year,2019,false,,,,,,,,,,,,,86.4,,,,,,86,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,SRB,Serbia,Year,2019,false,,,,,,,,,,,,,85.57,,,,,,86,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,false,,,,,,,,,,,,,86.07,,,,,,86,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,HRV,Croatia,Year,2019,false,,,,,,,,,,,,,86.73,,,,,,87,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,CYP,Cyprus,Year,2019,false,,,,,,,,,,,,,86.94,,,,,,87,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,false,,,,,,,,,,,,,87.12,,,,,,87,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,AND,Andorra,Year,2019,false,,,,,,,,,,,,,87.88,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,FRA,France,Year,2019,false,,,,,,,,,,,,,87.56,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,MCO,Monaco,Year,2019,false,,,,,,,,,,,,,87.88,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,false,,,,,,,,,,,,,88.25,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,false,,,,,,,,,,,,,87.89,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,SMR,San Marino,Year,2019,false,,,,,,,,,,,,,87.88,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,SVN,Slovenia,Year,2019,false,,,,,,,,,,,,,87.78,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,AMR,Americas,Country,USA,United States of America,Year,2019,false,,,,,,,,,,,,,88.41,,,,,,88,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,WPR,Western Pacific,Country,AUS,Australia,Year,2019,false,,,,,,,,,,,,,89.72,,,,,,90,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,AUT,Austria,Year,2019,false,,,,,,,,,,,,,89.87,,,,,,90,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2019,false,,,,,,,,,,,,,90.08,,,,,,90,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ESP,Spain,Year,2019,false,,,,,,,,,,,,,90.41,,,,,,90,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,BEL,Belgium,Year,2019,false,,,,,,,,,,,,,91.05,,,,,,91,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,DNK,Denmark,Year,2019,false,,,,,,,,,,,,,90.66,,,,,,91,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ISL,Iceland,Year,2019,false,,,,,,,,,,,,,91.11,,,,,,91,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,ITA,Italy,Year,2019,false,,,,,,,,,,,,,91.1,,,,,,91,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,CHE,Switzerland,Year,2019,false,,,,,,,,,,,,,91.45,,,,,,91,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,DEU,Germany,Year,2019,false,,,,,,,,,,,,,91.93,,,,,,92,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,NOR,Norway,Year,2019,false,,,,,,,,,,,,,91.57,,,,,,92,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,PRT,Portugal,Year,2019,false,,,,,,,,,,,,,91.61,,,,,,92,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,SWE,Sweden,Year,2019,false,,,,,,,,,,,,,91.51,,,,,,92,,,EN,2023-04-30T22:00:00.000Z
+UHC_SCI_INFECT,UHC Service Coverage sub-index on infectious diseases,text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,false,,,,,,,,,,,,,93.16,,,,,,93,,,EN,2023-04-30T22:00:00.000Z

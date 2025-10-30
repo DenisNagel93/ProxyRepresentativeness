@@ -1,0 +1,90 @@
+﻿IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,Language,DateModified
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014-2020,false,,,,,,,,,,,,,27.6,,,,,,27.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,AGO,Angola,Year,2010-2016,false,,,,,,,,,,,,,61.4,,,,,,61.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2014,false,,,,,,,,,,,,,100,,,,,,100,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,AUS,Australia,Year,2014,false,,,,,,,,,,,,,95.3,,,,,,95.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,BHS,Bahamas,Year,2014,false,,,,,,,,,,,,,83.1,,,,,,83.1,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2014,false,,,,,,,,,,,,,100,,,,,,100,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2014-2018,false,,,,,,,,,,,,,47,,,,,,47,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,BRB,Barbados,Year,2014,false,,,,,,,,,,,,,96.9,,,,,,96.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,BEN,Benin,Year,2012-2018,false,,,,,,,,,,,,,52.1,,,,,,52.1,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2013-2015,false,,,,,,,,,,,,,84.9,,,,,,84.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2011-2016,false,,,,,,,,,,,,,85.6,,,,,,85.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,BRA,Brazil,Year,2014,false,,,,,,,,,,,,,90.09,,,,,,90.08576776,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2010-2015,false,,,,,,,,,,,,,47.2,,,,,,47.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,BDI,Burundi,Year,2011-2017,false,,,,,,,,,,,,,49.3,,,,,,49.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2009-2014,false,,,,,,,,,,,,,75.6,,,,,,75.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,CMR,Cameroon,Year,2013-2019,false,,,,,,,,,,,,,64.9,,,,,,64.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,COL,Colombia,Year,2014,false,,,,,,,,,,,,,87.9,,,,,,87.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,CRI,Costa Rica,Year,2010-2015,false,,,,,,,,,,,,,97.6,,,,,,97.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2014-2016,false,,,,,,,,,,,,,51.3,,,,,,51.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,HRV,Croatia,Year,2014,false,,,,,,,,,,,,,92.4,,,,,,92.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,CUB,Cuba,Year,2012-2014,false,,,,,,,,,,,,,97.8,,,,,,97.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,CZE,Czechia,Year,2014,false,,,,,,,,,,,,,96.4,,,,,,96.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2008-2014,false,,,,,,,,,,,,,48,,,,,,48,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2009-2014,false,,,,,,,,,,,,,82.8,,,,,,82.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,SLV,El Salvador,Year,2012-2014,false,,,,,,,,,,,,,90,,,,,,90,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,EST,Estonia,Year,2014,false,,,,,,,,,,,,,96.8,,,,,,96.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,SWZ,Eswatini,Year,2012-2014,false,,,,,,,,,,,,,76.1,,,,,,76.1,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,ETH,Ethiopia,Year,2011-2016,false,,,,,,,,,,,,,31.8,,,,,,31.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,FIN,Finland,Year,2014,false,,,,,,,,,,,,,98,,,,,,98,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,GEO,Georgia,Year,2014,false,,,,,,,,,,,,,86.9,,,,,,86.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,GHA,Ghana,Year,2012-2017,false,,,,,,,,,,,,,89.3,,,,,,89.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,GIN,Guinea,Year,2013-2018,false,,,,,,,,,,,,,35.3,,,,,,35.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2012-2014,false,,,,,,,,,,,,,64.9,,,,,,64.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,GUY,Guyana,Year,2014,false,,,,,,,,,,,,,94,,,,,,94,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,ISL,Iceland,Year,2014,false,,,,,,,,,,,,,98.3,,,,,,98.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,IND,India,Year,2010-2016,false,,,,,,,,,,,,,51.2,,,,,,51.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2012-2017,false,,,,,,,,,,,,,90.6,,,,,,90.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,ITA,Italy,Year,2014,false,,,,,,,,,,,,,87.3,,,,,,87.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2013-2018,false,,,,,,,,,,,,,91.6,,,,,,91.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,KEN,Kenya,Year,2010-2015,false,,,,,,,,,,,,,62.5,,,,,,62.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2014,false,,,,,,,,,,,,,94.6,,,,,,94.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,LSO,Lesotho,Year,2009-2014,false,,,,,,,,,,,,,74.4,,,,,,74.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,LBR,Liberia,Year,2014-2020,false,,,,,,,,,,,,,87.3,,,,,,87.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,LUX,Luxembourg,Year,2014,false,,,,,,,,,,,,,98.6,,,,,,98.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,MWI,Malawi,Year,2010-2016,false,,,,,,,,,,,,,50.6,,,,,,50.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,MLI,Mali,Year,2013-2018,false,,,,,,,,,,,,,43.3,,,,,,43.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,MRT,Mauritania,Year,2013-2015,false,,,,,,,,,,,,,63,,,,,,63,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,MEX,Mexico,Year,2013-2015,false,,,,,,,,,,,,,94.3,,,,,,94.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,MOZ,Mozambique,Year,2014-2019,false,,,,,,,,,,,,,51,,,,,,51,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,NRU,Nauru,Year,2014,false,,,,,,,,,,,,,51.2,,,,,,51.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2011-2016,false,,,,,,,,,,,,,69.4,,,,,,69.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,NIC,Nicaragua,Year,2014,false,,,,,,,,,,,,,71,,,,,,71,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,NER,Niger,Year,2014-2015,false,,,,,,,,,,,,,38.5,,,,,,38.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,NGA,Nigeria,Year,2013-2018,false,,,,,,,,,,,,,56.8,,,,,,56.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,PSE,"occupied Palestinian territory, including east Jerusalem",Year,2012-2014,false,,,,,,,,,,,,,95.5,,,,,,95.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2014,false,,,,,,,,,,,,,71.3,,,,,,71.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013-2018,false,,,,,,,,,,,,,51.4,,,,,,51.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,PAN,Panama,Year,2009-2015,false,,,,,,,,,,,,,98.6,,,,,,98.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,PRY,Paraguay,Year,2014,false,,,,,,,,,,,,,78.3,,,,,,78.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,PER,Peru,Year,2014-2019,false,,,,,,,,,,,,,96.3,,,,,,96.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2012-2017,false,,,,,,,,,,,,,86.5,,,,,,86.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,POL,Poland,Year,2014,false,,,,,,,,,,,,,87.27,,,,,,87.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,PRI,Puerto Rico,Year,2014,false,,,,,,,,,,,,,99.7,,,,,,99.7,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,RWA,Rwanda,Year,2010-2015,false,,,,,,,,,,,,,43.9,,,,,,43.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2009-2014,false,,,,,,,,,,,,,72.9,,,,,,72.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2012-2014,false,,,,,,,,,,,,,83.6,,,,,,83.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,SEN,Senegal,Year,2014-2019,false,,,,,,,,,,,,,55.5,,,,,,55.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,SRB,Serbia,Year,2012-2014,false,,,,,,,,,,,,,93.9,,,,,,93.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2012-2017,false,,,,,,,,,,,,,77.5,,,,,,77.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2014,false,,,,,,,,,,,,,96.8,,,,,,96.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,SVK,Slovakia,Year,2014,false,,,,,,,,,,,,,96.2,,,,,,96.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2010-2015,false,,,,,,,,,,,,,68.9,,,,,,68.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2013-2019,false,,,,,,,,,,,,,24.4,,,,,,24.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2012-2014,false,,,,,,,,,,,,,50.7,,,,,,50.7,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,TUR,TÃ¼rkiye,Year,2013-2019,false,,,,,,,,,,,,,89.7,,,,,,89.7,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,TJK,Tajikistan,Year,2012-2017,false,,,,,,,,,,,,,64.2,,,,,,64.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2013-2016,false,,,,,,,,,,,,,90.8,,,,,,90.8,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,TGO,Togo,Year,2008-2014,false,,,,,,,,,,,,,57.2,,,,,,57.2,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2014,false,,,,,,,,,,,,,100,,,,,,100,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2013-2016,false,,,,,,,,,,,,,96.4,,,,,,96.4,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,UGA,Uganda,Year,2011-2016,false,,,,,,,,,,,,,59.9,,,,,,59.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2013-2018,false,,,,,,,,,,,,,97.3,,,,,,97.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2010-2016,false,,,,,,,,,,,,,50.6,,,,,,50.6,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,USA,United States of America,Year,2014,false,,,,,,,,,,,,,96.3,,,,,,96.3,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,URY,Uruguay,Year,2014,false,,,,,,,,,,,,,95.9,,,,,,95.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2014,false,,,,,,,,,,,,,86.9,,,,,,86.9,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2011-2014,false,,,,,,,,,,,,,73.7,,,,,,73.7,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,ZMB,Zambia,Year,2014-2019,false,,,,,,,,,,,,,63.5,,,,,,63.5,,EN,2025-09-25T22:00:00.000Z
+WHS4_154,Antenatal care coverage - at least four visits (%),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010-2015,false,,,,,,,,,,,,,75.7,,,,,,75.7,,EN,2025-09-25T22:00:00.000Z
