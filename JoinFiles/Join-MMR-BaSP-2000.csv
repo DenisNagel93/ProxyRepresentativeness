@@ -1,0 +1,132 @@
+Location,WHO region,Period,FactValueNumeric,Comments,ParentLocation,IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocationr,Location type,SpatialDimValueCode,Period type,Periodr,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumericr,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,Language,DateModified
+Sierra Leone,,2000,2480.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,SLE,Year,2000,False,,,,,,,,,,,,,37,,,,,,37,,EN,2025-04-06T22:00:00.000Z
+Somalia,,2000,1210.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,SOM,Year,2000,False,,,,,,,,,,,,,19,,,,,,19,,EN,2025-04-06T22:00:00.000Z
+Central African Republic,,2000,1280.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,CAF,Year,2000,False,,,,,,,,,,,,,32,,,,,,32,,EN,2025-04-06T22:00:00.000Z
+Chad,,2000,1420.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,TCD,Year,2000,False,,,,,,,,,,,,,14,,,,,,14,,EN,2025-04-06T22:00:00.000Z
+Guinea-Bissau,,2000,1210.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,GNB,Year,2000,False,,,,,,,,,,,,,32,,,,,,32,,EN,2025-04-06T22:00:00.000Z
+Rwanda,,2000,1160.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,RWA,Year,2000,False,,,,,,,,,,,,,31,,,,,,31,,EN,2025-04-06T22:00:00.000Z
+Burundi,,2000,1010.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,BDI,Year,2000,False,,,,,,,,,,,,,25,,,,,,25,,EN,2025-04-06T22:00:00.000Z
+Ethiopia,,2000,1030.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,ETH,Year,2000,False,,,,,,,,,,,,,6,,,,,,6,,EN,2025-04-06T22:00:00.000Z
+Gambia,,2000,932.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,GMB,Year,2000,False,,,,,,,,,,,,,52,,,,,,52,,EN,2025-04-06T22:00:00.000Z
+Liberia,,2000,894.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,LBR,Year,1999-2000,False,,,,,,,,,,,,,51,,,,,,51,,EN,2025-04-06T22:00:00.000Z
+Mauritania,,2000,834.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,MRT,Year,2000-2001,False,,,,,,,,,,,,,53,,,,,,53,,EN,2025-04-06T22:00:00.000Z
+Cameroon,,2000,886.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,CMR,Year,2000,False,,,,,,,,,,,,,56,,,,,,56,,EN,2025-04-06T22:00:00.000Z
+Niger,,2000,813.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,NER,Year,2000,False,,,,,,,,,,,,,16,,,,,,16,,EN,2025-04-06T22:00:00.000Z
+Malawi,,2000,749.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,MWI,Year,2000,False,,,,,,,,,,,,,56,,,,,,56,,EN,2025-04-06T22:00:00.000Z
+Kenya,,2000,708.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,KEN,Year,2000,False,,,,,,,,,,,,,43,,,,,,43,,EN,2025-04-06T22:00:00.000Z
+Lesotho,,2000,614.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,LSO,Year,2000,False,,,,,,,,,,,,,48,,,,,,48,,EN,2025-04-06T22:00:00.000Z
+Eswatini,,2000,521.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,SWZ,Year,2000,False,,,,,,,,,,,,,65,,,,,,65,,EN,2025-04-06T22:00:00.000Z
+Nepal,,2000,553.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,NPL,Year,2000,False,,,,,,,,,,,,,12,,,,,,12,,EN,2025-04-06T22:00:00.000Z
+Uganda,,2000,578.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,UGA,Year,2000-2001,False,,,,,,,,,,,,,39,,,,,,39,,EN,2025-04-06T22:00:00.000Z
+Senegal,,2000,553.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,SEN,Year,2000,False,,,,,,,,,,,,,58,,,,,,58,,EN,2025-04-06T22:00:00.000Z
+Madagascar,,2000,559.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,MDG,Year,2000,False,,,,,,,,,,,,,47,,,,,,47,,EN,2025-04-06T22:00:00.000Z
+Equatorial Guinea,,2000,454.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,GNQ,Year,2000,False,,,,,,,,,,,,,65,,,,,,65,,EN,2025-04-06T22:00:00.000Z
+Lao People's Democratic Republic,,2000,544.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,LAO,Year,2000,False,,,,,,,,,,,,,17,,,,,,17,,EN,2025-04-06T22:00:00.000Z
+Comoros,,2000,444.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,COM,Year,2000,False,,,,,,,,,,,,,62,,,,,,62,,EN,2025-04-06T22:00:00.000Z
+Togo,,2000,489.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,TGO,Year,2000,False,,,,,,,,,,,,,35,,,,,,35,,EN,2025-04-06T22:00:00.000Z
+Cambodia,,2000,488.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,KHM,Year,2000,False,,,,,,,,,,,,,32,,,,,,32,,EN,2025-04-06T22:00:00.000Z
+Bangladesh,,2000,434.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,BGD,Year,1999-2000,False,,,,,,,,,,,,,12,,,,,,12,,EN,2025-04-06T22:00:00.000Z
+Haiti,,2000,437.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,HTI,Year,2000,False,,,,,,,,,,,,,24,,,,,,24,,EN,2025-04-06T22:00:00.000Z
+Bhutan,,2000,423.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,BTN,Year,2000,False,,,,,,,,,,,,,27,,,,,,27,,EN,2025-04-06T22:00:00.000Z
+Gabon,,2000,380.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,GAB,Year,2000-2001,False,,,,,,,,,,,,,86,,,,,,86,,EN,2025-04-06T22:00:00.000Z
+India,,2000,370.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,IND,Year,2000,False,,,,,,,,,,,,,43,,,,,,43,,EN,2025-04-06T22:00:00.000Z
+Namibia,,2000,348.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,NAM,Year,2000,False,,,,,,,,,,,,,76,,,,,,76,,EN,2025-04-06T22:00:00.000Z
+Bolivia (Plurinational State of),,2000,331.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,BOL,Year,2000,False,,,,,,,,,,,,,67,,,,,,67,,EN,2025-04-06T22:00:00.000Z
+Botswana,,2000,262.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,BWA,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Micronesia (Federated States of),,2000,154.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,FSM,Year,2000,False,,,,,,,,,,,,,83,,,,,,83,,EN,2025-04-06T22:00:00.000Z
+Guyana,,2000,231.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,GUY,Year,2000,False,,,,,,,,,,,,,83,,,,,,83,,EN,2025-04-06T22:00:00.000Z
+Democratic People's Republic of Korea,,2000,139.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,PRK,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Sao Tome and Principe,,2000,179.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,STP,Year,2000,False,,,,,,,,,,,,,79,,,,,,79,,EN,2025-04-06T22:00:00.000Z
+Suriname,,2000,221.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,SUR,Year,2000,False,,,,,,,,,,,,,71,,,,,,71,,EN,2025-04-06T22:00:00.000Z
+Vanuatu,,2000,140.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,VUT,Year,2000,False,,,,,,,,,,,,,88,,,,,,88,,EN,2025-04-06T22:00:00.000Z
+Kiribati,,2000,136.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,KIR,Year,2000,False,,,,,,,,,,,,,85,,,,,,85,,EN,2025-04-06T22:00:00.000Z
+Philippines,,2000,160.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,PHL,Year,2000,False,,,,,,,,,,,,,58,,,,,,58,,EN,2025-04-06T22:00:00.000Z
+Mongolia,,2000,155.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,MNG,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Guatemala,,2000,161.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,GTM,Year,2000,False,,,,,,,,,,,,,41,,,,,,41,,EN,2025-04-06T22:00:00.000Z
+Samoa,,2000,88.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,WSM,Year,2000,False,,,,,,,,,,,,,80,,,,,,80,,EN,2025-04-06T22:00:00.000Z
+Peru,,2000,144.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,PER,Year,2000,False,,,,,,,,,,,,,59,,,,,,59,,EN,2025-04-06T22:00:00.000Z
+Tonga,,2000,77.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,TON,Year,2000,False,,,,,,,,,,,,,95,,,,,,95,,EN,2025-04-06T22:00:00.000Z
+Venezuela (Bolivarian Republic of),,2000,119.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,VEN,Year,2000,False,,,,,,,,,,,,,94,,,,,,94,,EN,2025-04-06T22:00:00.000Z
+Ecuador,,2000,122.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,ECU,Year,2000,False,,,,,,,,,,,,,71,,,,,,71,,EN,2025-04-06T22:00:00.000Z
+Saint Lucia,,2000,86.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,LCA,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Panama,,2000,91.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,PAN,Year,2000,False,,,,,,,,,,,,,91,,,,,,91,,EN,2025-04-06T22:00:00.000Z
+Belize,,2000,89.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,BLZ,Year,2000,False,,,,,,,,,,,,,90,,,,,,90,,EN,2025-04-06T22:00:00.000Z
+Saint Vincent and the Grenadines,,2000,80.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,VCT,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Iraq,,2000,79.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,IRQ,Year,2000,False,,,,,,,,,,,,,65,,,,,,65,,EN,2025-04-06T22:00:00.000Z
+Colombia,,2000,94.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,COL,Year,2000,False,,,,,,,,,,,,,86,,,,,,86,,EN,2025-04-06T22:00:00.000Z
+Trinidad and Tobago,,2000,81.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,TTO,Year,2000,False,,,,,,,,,,,,,96,,,,,,96,,EN,2025-04-06T22:00:00.000Z
+Bahamas,,2000,75.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,BHS,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Seychelles,,2000,53.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,SYC,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Kyrgyzstan,,2000,79.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,KGZ,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Viet Nam,,2000,68.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,VNM,Year,2000,False,,,,,,,,,,,,,59,,,,,,59,,EN,2025-04-06T22:00:00.000Z
+Dominican Republic,,2000,80.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,DOM,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Tunisia,,2000,66.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,TUN,Year,2000,False,,,,,,,,,,,,,90,,,,,,90,,EN,2025-04-06T22:00:00.000Z
+Jamaica,,2000,77.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,JAM,Year,2000,False,,,,,,,,,,,,,96,,,,,,96,,EN,2025-04-06T22:00:00.000Z
+Argentina,,2000,66.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,ARG,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Egypt,,2000,64.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,EGY,Year,2000,False,,,,,,,,,,,,,61,,,,,,61,,EN,2025-04-06T22:00:00.000Z
+Mauritius,,2000,59.0,,Africa,MDG_0000000025,Births attended by skilled health personnel (%),text,AFR,Africa,Country,MUS,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Brazil,,2000,69.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,BRA,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Kazakhstan,,2000,61.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,KAZ,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Barbados,,2000,50.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,BRB,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+China,,2000,59.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,CHN,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Russian Federation,,2000,56.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,RUS,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Romania,,2000,54.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,ROU,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Tajikistan,,2000,53.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,TJK,Year,2000,False,,,,,,,,,,,,,71,,,,,,71,,EN,2025-04-06T22:00:00.000Z
+Antigua and Barbuda,,2000,44.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,ATG,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Sri Lanka,,2000,56.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,LKA,Year,2000,False,,,,,,,,,,,,,96,,,,,,96,,EN,2025-04-06T22:00:00.000Z
+Fiji,,2000,51.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,FJI,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Mexico,,2000,55.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,MEX,Year,2000,False,,,,,,,,,,,,,89,,,,,,89,,EN,2025-04-06T22:00:00.000Z
+Iran (Islamic Republic of),,2000,48.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,IRN,Year,2000,False,,,,,,,,,,,,,90,,,,,,90,,EN,2025-04-06T22:00:00.000Z
+Azerbaijan,,2000,47.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,AZE,Year,2000,False,,,,,,,,,,,,,81,,,,,,81,,EN,2025-04-06T22:00:00.000Z
+Grenada,,2000,38.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,GRD,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Republic of Moldova,,2000,44.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,MDA,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Cuba,,2000,46.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,CUB,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Armenia,,2000,43.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,ARM,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Thailand,,2000,43.0,,South-East Asia,MDG_0000000025,Births attended by skilled health personnel (%),text,SEAR,South-East Asia,Country,THA,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Uzbekistan,,2000,41.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,UZB,Year,2000,False,,,,,,,,,,,,,95,,,,,,95,,EN,2025-04-06T22:00:00.000Z
+Costa Rica,,2000,40.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,CRI,Year,1999-2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Malaysia,,2000,38.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,MYS,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Ukraine,,2000,35.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,UKR,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Lebanon,,2000,28.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,LBN,Year,1999-2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Chile,,2000,31.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,CHL,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Georgia,,2000,31.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,GEO,Year,2000,False,,,,,,,,,,,,,96,,,,,,96,,EN,2025-04-06T22:00:00.000Z
+Estonia,,2000,29.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,EST,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Brunei Darussalam,,2000,28.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,BRN,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Turkmenistan,,2000,29.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,TKM,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Bahrain,,2000,27.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,BHR,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Saudi Arabia,,2000,24.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,SAU,Year,2000,False,,,,,,,,,,,,,91,,,,,,91,,EN,2025-04-06T22:00:00.000Z
+Albania,,2000,23.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,ALB,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Uruguay,,2000,26.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,URY,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Belarus,,2000,22.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,BLR,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Bosnia and Herzegovina,,2000,17.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,BIH,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Bulgaria,,2000,19.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,BGR,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Oman,,2000,20.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,OMN,Year,2000,False,,,,,,,,,,,,,95,,,,,,95,,EN,2025-04-06T22:00:00.000Z
+Cyprus,,2000,14.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,CYP,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Hungary,,2000,16.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,HUN,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Lithuania,,2000,17.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,LTU,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Qatar,,2000,14.0,,Eastern Mediterranean,MDG_0000000025,Births attended by skilled health personnel (%),text,EMR,Eastern Mediterranean,Country,QAT,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Montenegro,,2000,12.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,MNE,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Republic of Korea,,2000,17.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,KOR,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+North Macedonia,,2000,13.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,MKD,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Singapore,,2000,13.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,SGP,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Serbia,,2000,13.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,SRB,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+New Zealand,,2000,12.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,NZL,Year,2000,False,,,,,,,,,,,,,97,,,,,,97,,EN,2025-04-06T22:00:00.000Z
+Slovenia,,2000,12.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,SVN,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Croatia,,2000,11.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,HRV,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+United States of America,,2000,12.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,USA,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Canada,,2000,9.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,CAN,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Japan,,2000,9.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,JPN,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Slovakia,,2000,8.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,SVK,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Denmark,,2000,8.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,DNK,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Ireland,,2000,7.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,IRL,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Poland,,2000,7.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,POL,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Iceland,,2000,6.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,ISL,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Germany,,2000,7.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,DEU,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Czechia,,2000,7.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,CZE,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Australia,,2000,7.0,,Western Pacific,MDG_0000000025,Births attended by skilled health personnel (%),text,WPR,Western Pacific,Country,AUS,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Austria,,2000,6.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,AUT,Year,2000,False,,,,,,,,,,,,,98,,,,,,98,,EN,2025-04-06T22:00:00.000Z
+Norway,,2000,6.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,NOR,Year,2000,False,,,,,,,,,,,,,99,,,,,,99,,EN,2025-04-06T22:00:00.000Z
+Finland,,2000,6.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,FIN,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Italy,,2000,4.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,ITA,Year,1999-2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Greece,,2000,3.0,,Europe,MDG_0000000025,Births attended by skilled health personnel (%),text,EUR,Europe,Country,GRC,Year,2000,False,,,,,,,,,,,,,100,,,,,,100,,EN,2025-04-06T22:00:00.000Z
+Paraguay,,2000,165.0,,Americas,MDG_0000000025,Births attended by skilled health personnel (%),text,AMR,Americas,Country,PRY,Year,2000,False,,,,,,,,,,,,,85,,,,,,85,,EN,2025-04-06T22:00:00.000Z
