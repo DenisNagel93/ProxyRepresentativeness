@@ -83,10 +83,10 @@ python3 runEval.py <#clusters/quantiles> <mode>
 
 ### Arguments
 
-| Argument       | Meaning                                                |
-| -------------- | ------------------------------------------------------ |
-| `<#quantiles>` | Number of quantiles for subgrouping (Paper uses **4**) |
-| `<mode>`       | `Prepare`, `Impute`, `Eval`, or `Full`                 |
+| Argument                | Meaning                                                         |
+| ----------------------- | --------------------------------------------------------------- |
+| `<#clusters/quantiles>` | Number of clusters/quantiles for subgrouping (Paper uses **4**) |
+| `<mode>`                | `Prepare`, `Impute`, `Eval`, or `Full`                          |
 
 ---
 
@@ -98,7 +98,7 @@ python3 runEval.py <#clusters/quantiles> <mode>
 python3 runEval.py 4 Prepare
 ```
 
-Generates quantile-based modified samples:
+Generates cluster- or quantile-based modified samples:
 
 ```
 ModifiedSamples/<central>/
