@@ -51,7 +51,7 @@ Using `joinDataFrames.py`.
 
 Using `createSamples.py`.
 
-### **3. Create modified samples (quantile-based)**
+### **3. Create modified samples (cluster or quantile-based)**
 
 Using `createSubgroups.py`.
 
@@ -78,7 +78,7 @@ The entire pipeline is controlled by **`runEval.py`**.
 # Using `runEval.py`
 
 ```
-python3 runEval.py <#quantiles> <mode>
+python3 runEval.py <#clusters/quantiles> <mode>
 ```
 
 ### Arguments
