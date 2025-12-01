@@ -1,14 +1,14 @@
-Query,Claim,Context,Witness,Matched Attribute
-PCV3-UHCID-2019,"(PCV3 immunization coverage,51%)","(Global,2019)",PCV3-2019-Data.csv,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
-NCD-AAP-2019,"(NCD deaths,41000000)","(Global,2019)",NCD-2019-Data.csv,Total NCD Deaths (in thousands)
-BaSP-ANC-2014,"(births attended by skilled health personnel,83%)","(Global,2014)",BaSP-2014-Data.csv,Births attended by skilled health personnel (%)
-DTP3-UHCID-2019,"(DTP3 immunization coverage,86%)","(Global,2019)",DTP3-2019-Data.csv,DTP3 immunization coverage among one-year-olds (%)
-MCV2-MCV1-2019,"(MCV2 immunization coverage,71%)","(Global,2019)",MCV2-2019-Data.csv,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
-TBI-TBNRC-2019,"(incidence of Tuberculosis,0.134%)","(Global,2019)",TBI-2019-Data.csv,Incidence of tuberculosis (per 100 000 population per year)
-LEaB-IMR-2019,"(life expectancy at birth,73.3)","(Global,2019)",LEaB-2019-Data.csv,Life expectancy at birth (years)
-IPV-AUD-2004,"(mortality from interpersonal violence,0.0073%)","(Global,2004)",IPV-2004-Data.csv,Age-standardized death rates violence per 100000
-MMR-BaSP-2000,"(maternal mortality ratio,0.339%)","(Global,2000)",MMR-2000-Data.csv,Maternal mortality ratio (per 100 000 live births)
-U5MR-WSH-2004,"(under-five mortality rate,6.62%)","(Global,2004)",U5MR-2004-Data.csv,Under-five mortality rate (probability of dying by age 5 per 1000 live births)
-NMR-BaSP-2000,"(neonatal mortality rate,3.1%)","(Global,2000)",NMR-2000-Data.csv,Neonatal mortality rate (per 1000 live births)
-PHD-MDD-2010,"(density of doctors,0.172%)","(Global,2010)",PHD-2010-Data.csv,Physicians density (per 1000 population)
-NCDR-AAPR-2019,"(NCD mortality rate,0.480%)","(Global,2019)",NCDR-2019-Data.csv,Age-standardized NCD mortality rate (per 100 000 population)
+Query,Claim,Context,Witness,Matched Attribute,Proxy Data,Proxy Attribute
+PCV3-UHCID-2019,"(PCV3 immunization coverage,51%)","(Global,2019)",PCV3-2019-Data.csv,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),UHCID-2019-Data.csv,UHC Service Coverage sub-index on infectious diseases
+NCD-AAP-2019,"(NCD deaths,41000000)","(Global,2019)",NCD-2019-Data.csv,Total NCD Deaths (in thousands),AAP-2019-Data.csv,Ambient air pollution attributable deaths (per 100 000 population age-standardized)
+BaSP-ANC-2014,"(births attended by skilled health personnel,83%)","(Global,2014)",BaSP-2014-Data.csv,Births attended by skilled health personnel (%),ANC-2014-Data.csv,Antenatal care coverage - at least one visit (in the five years preceding the survey) (%)
+DTP3-UHCID-2019,"(DTP3 immunization coverage,86%)","(Global,2019)",DTP3-2019-Data.csv,DTP3 immunization coverage among one-year-olds (%),UHCID-2019-Data.csv,UHC Service Coverage sub-index on infectious diseases
+MCV2-MCV1-2019,"(MCV2 immunization coverage,71%)","(Global,2019)",MCV2-2019-Data.csv,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),MCV1-2019-Data.csv,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
+TBI-TBNRC-2019,"(incidence of Tuberculosis,0.134%)","(Global,2019)",TBI-2019-Data.csv,Incidence of tuberculosis (per 100 000 population per year),TBNRC-2019-Data.csv,Tuberculosis - new and relapse cases
+LEaB-IMR-2019,"(life expectancy at birth,73.3)","(Global,2019)",LEaB-2019-Data.csv,Life expectancy at birth (years),IMR-2019-Data.csv,Infant mortality rate (deaths per 1000 live births)
+IPV-AUD-2004,"(mortality from interpersonal violence,0.0073%)","(Global,2004)",IPV-2004-Data.csv,Age-standardized death rates violence per 100000,AUD-2004-Data.csv,Age-standardized death rates alcohol use disorders per 100000
+MMR-BaSP-2000,"(maternal mortality ratio,0.339%)","(Global,2000)",MMR-2000-Data.csv,Maternal mortality ratio (per 100 000 live births),BaSP-2000-Data.csv,Births attended by skilled health personnel (%)
+U5MR-WSH-2004,"(under-five mortality rate,6.62%)","(Global,2004)",U5MR-2004-Data.csv,Under-five mortality rate (probability of dying by age 5 per 1000 live births),WSH-2004-Data.csv,Water sanitation and hygiene attributable deaths ('000) in children under 5 years
+NMR-BaSP-2000,"(neonatal mortality rate,3.1%)","(Global,2000)",NMR-2000-Data.csv,Neonatal mortality rate (per 1000 live births),BaSP-2000-Data.csv,Births attended by skilled health personnel (%)
+PHD-MDD-2010,"(density of doctors,0.172%)","(Global,2010)",PHD-2010-Data.csv,Physicians density (per 1000 population),MDD-2010-Data.csv,Medical doctors (per 10000)
+NCDR-AAPR-2019,"(NCD mortality rate,0.480%)","(Global,2019)",NCDR-2019-Data.csv,Age-standardized NCD mortality rate (per 100 000 population),AAPR-2019-Data.csv,Ambient air pollution attributable death rate (per 100 000 population age-standardized)
