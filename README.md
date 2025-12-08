@@ -106,8 +106,6 @@ Generates cluster- or quantile-based modified samples:
 ModifiedSamples/<central>/
 ```
 
-(Joining and initial sampling steps are included in code but commented by default.)
-
 ---
 
 ### **Impute**
