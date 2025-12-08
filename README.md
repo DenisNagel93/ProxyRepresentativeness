@@ -100,6 +100,18 @@ Requires the data sets in the Data folder as well as the settings.csv file, whic
 python3 runEval.py 4 Prepare
 ```
 
+Joins all witnesses with their respective proxy table as assigned in settings.csv
+
+```
+JoinFiles/
+```
+
+Creates initial samples
+
+```
+Samples/<central>/
+```
+
 Generates cluster- or quantile-based modified samples:
 
 ```
