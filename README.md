@@ -88,7 +88,7 @@ python3 runEval.py <#clusters/quantiles> <mode>
 | `<#clusters/quantiles>` | Number of clusters/quantiles for subgrouping (Paper uses **4**) |
 | `<mode>`                | `Prepare`, `Impute`, `Eval`, or `Full`                          |
 
-Requires the data sets in the Data folder as well as the settings.csv file, which specifies each witness and proxy table combination.
+Requires the data sets in the **Data folder** as well as the **settings.csv** file, which specifies each witness and proxy table combination.
 
 ---
 
