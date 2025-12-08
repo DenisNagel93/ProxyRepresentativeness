@@ -100,13 +100,13 @@ Requires the data sets in the Data folder as well as the settings.csv file, whic
 python3 runEval.py 4 Prepare
 ```
 
-Joins all witnesses with their respective proxy table as assigned in settings.csv
+Joins all witnesses with their respective proxy table as assigned in settings.csv:
 
 ```
 JoinFiles/
 ```
 
-Creates initial samples
+Creates initial samples:
 
 ```
 Samples/<central>/
@@ -126,11 +126,18 @@ ModifiedSamples/<central>/
 python3 runEval.py 4 Impute
 ```
 
-Runs MissForest imputation for:
+Prepares data sets for imputation:
 
 ```
-ImputedSamples/
-ModImputedSamples/
+ImputationSamples/<central>/
+ModImputationSamples/<central>/
+```
+
+Runs MissForest imputation and generates imputed data sets:
+
+```
+ImputedSamples/<central>/
+ModImputedSamples/<central>/
 ```
 
 ---
